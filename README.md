@@ -31,12 +31,6 @@
   border:1px solid black;
 }
 </style>
-<body>
-
-<table style="width:20%">
-
-
-    </style>
 </head>
 <body>
     <header>
@@ -51,13 +45,10 @@
         <p>Universitas Multi Data Palembang</p>
     </section>
 
-</body>
-</html>
-
 <div class="section-container">
         <h2>Bahasa yang Dipelajari</h2>
+        <table style="width:20%">
         <table>
-        
             <tr>
                 <td>JavaScript</td>
             </tr>
@@ -66,13 +57,11 @@
             </tr>
             <tr>
                 <td>PYTHON</td>
-            </tr>
-            
-        </table>
-        
-    </div>
-    
+            </tr>       
+        </table>      
+    </div>    
     <style>
+    
 </body>
 </html>
 
