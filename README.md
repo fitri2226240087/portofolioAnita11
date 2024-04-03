@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+   
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -24,7 +24,12 @@
             width: 20%;
             border-collapse: collapse;}
             
-    
+        p {
+            margin-bottom: 5px;
+        }
+        table, th, td {
+  border:1px solid black;
+}
 </style>
 </head>
 <body>
@@ -38,12 +43,13 @@
         <p>Jurusan : Sistem Informasi</p>
         <p>Semester : 4 </p>
         <p>Universitas Multi Data Palembang</p>
+        <table style="width:20%">
     </section>
 
 <div class="section-container">
         <h2>Bahasa yang Dipelajari</h2>
-        <table style="width:20%">
         <table>
+        
             <tr>
                 <td>JavaScript</td>
             </tr>
@@ -52,9 +58,9 @@
             </tr>
             <tr>
                 <td>PYTHON</td>
-            </tr>       
-        </table>      
-    </div>        
+            </tr>            
+        </table>        
+    </div>
 </body>
 </html>
 
