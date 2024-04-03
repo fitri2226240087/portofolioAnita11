@@ -24,12 +24,7 @@
             width: 20%;
             border-collapse: collapse;}
             
-        p {
-            margin-bottom: 5px;
-        }
-        table, th, td {
-  border:1px solid black;
-}
+    
 </style>
 </head>
 <body>
@@ -59,9 +54,7 @@
                 <td>PYTHON</td>
             </tr>       
         </table>      
-    </div>    
-    <style>
-    
+    </div>        
 </body>
 </html>
 
